@@ -1,4 +1,4 @@
-# Kartaca Challenge
+# AngularToDoCalender
 ## Docker
  * Programın çalıştırılabilmesi için yapılması gereken ilk olarak github repository'sinin clone'lanıp ```docker-compose up```
  komutu ile çalışır hale getirilmesidir.
